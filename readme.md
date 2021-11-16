@@ -1,17 +1,26 @@
 # Situationsbeschreibung 
 
 Cross-Selling bezeichnet Produkte oder Dienstleistungen, die zusätzliche, ergänzende Bedürfnisse des Kunden befriedigen, die durch das ursprüngliche Produkt, das ein Kunde besitzt, nicht hinreichend befriedigt werden. So könnte beispielsweise eine Maus an einen Kunden, der eine Tastatur kauft, weiterverkauft werden. Häufig werden Kunden durch Cross-Selling auf Produkte hingewiesen, die sie ohnehin gekauft hätten; indem man sie zum richtigen Zeitpunkt „vorstellt“, stellt man sicher, dass der Verkauf zustande kommt.
+
+
 Cross-Selling ist in verschiedenen Bereichen und Branchen weit verbreitet, auch bei Banken. So werden beispielsweise Kreditkarten an Personen verkauft, die ein Sparkonto eröffnen. Im E-Commerce wird Cross-Selling häufig auf Produktseiten, während des Bestellvorgangs und in Lifecycle-Kampagnen eingesetzt. Es ist eine sehr effektive Taktik, um Wiederholungskäufe zu generieren und den Kunden die Breite eines Katalogs zu demonstrieren. Cross-Selling kann Nutzer auf Produkte aufmerksam machen, von denen sie vorher nicht wussten, dass diese angeboten werden und so ihr Vertrauen als der beste Händler für ein bestimmtes Bedürfnis gewinnen.
-Als Forschungsteam ProInsurance bestehend aus max. drei Teilnehmer*innen der Hochschule Trier wurden Sie ausgewählt, dass Projekt Cross-Selling-Prediction für den Kunden NextGen Insurance durchzuführen.
 
 
-![Alt-Text](nextgen_logo.PNG)
+Als Forschungsteam *ProInsurance* bestehend aus *max. drei Teilnehmer*innen* der Hochschule Trier wurden Sie ausgewählt, dass Projekt Cross-Selling-Prediction für den Kunden *NextGen Insurance* durchzuführen.
 
-Der Kunde wünscht die Durchführung des Projektes innerhalb eines knapp kalkulierten Zeitraums, da baldige Veränderungen im Jahre 2022 anstehen. Innerhalb eines zugesicherten Abkommens zwischen der Hochschule Trier und NextGen Insurance wurde folgende Projektzeit festgelegt: 
+<p align="center">
+  <img src="nextgen_logo.PNG">
+</p>
 
-                                    22 November 2021 bis 24 Januar 2022
 
-Das Vorstandsmitglied Fabian Roth, B.Sc. wünscht ein Deployment im Anschluss des Projektzeitraums in Form einer Präsentation, in der die erzielten Ergebnisse vorgestellt werden. Es sollen sowohl technische, als auch ökonomische Aspekte des Projektes beleuchtet werden. Der Zeitpunkt zur Präsentation der Ergebnisse muss noch zur Abstimmung kommen.
+
+Der Kunde wünscht die Durchführung des Projektes innerhalb eines knapp kalkulierten Zeitraums, da baldige Veränderungen im Jahre 2022 anstehen. Innerhalb eines zugesicherten Abkommens zwischen der Hochschule Trier und *NextGen Insurance* wurde folgende Projektzeit festgelegt: 
+
+<p align="center">
+  <b>22 November 2021 bis 24 Januar 2022</b>
+</p>
+
+Das Vorstandsmitglied *Fabian Roth, B.Sc.* wünscht ein Deployment im Anschluss des Projektzeitraums in Form einer Präsentation, in der die erzielten Ergebnisse vorgestellt werden. Es sollen sowohl technische, als auch ökonomische Aspekte des Projektes beleuchtet werden. Der Zeitpunkt zur Präsentation der Ergebnisse muss noch zur Abstimmung kommen.
 
 
 # Weiterführende Informationen zur NextGen Insurance
@@ -41,3 +50,14 @@ Der Kunde NextGen Insurance hat dem Forschungsteam ProInsurance ein Data Diction
 | vintage              |  Number of Days customer has been associated with the company |
 | response             |  1 : Customer is interested, 0 : Customer is not interested |
 
+
+
+
+
+Es stehen insgesamt zwei Datensätze zur Verfügung: 
+
+| Datensatz                |  Beschreibung |
+|----------------------|---|
+| train.csv                |  Hauptdatensatz mit der Zielvariable |
+| test.csv                 | Datensatz zur Prediction. Predictions der Zielvariable sollen in einer sample_submission.csv an das Vorstandsmitglied abgegeben werden  |
+| sample_submission.csv    | Auf Basis der test.csv zu erstellen, enthält nur ID und Response |
