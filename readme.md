@@ -63,5 +63,9 @@ Es stehen insgesamt zwei Datensätze zur Verfügung:
 | sample_submission.csv    | Auf Basis der test.csv zu erstellen, enthält nur ID und Response |
 
 
-<b> Ziel ist es daher vorherzusagen, ob ein Kunde an einer Kfz-Versicherung interessiert ist. Für das Unternehmen äußerst hilfreich, da es dann seine Kommunikationsstrategie entsprechend planen kann, um diese Kunden zu erreichen und das Geschäftsmodell und Einnahmen zu optimieren. </b>
+
+
+
+
+<b> Ziel des Forschungsteams ist es daher vorherzusagen, ob ein Kunde an einer Kfz-Versicherung interessiert ist. Für das Unternehmen *NextGen Insurance* ist dies äußerst hilfreich, da es dann seine Kommunikationsstrategie entsprechend planen kann, um diese Kunden zu erreichen und das Geschäftsmodell und Einnahmen zu optimieren. </b>
 
