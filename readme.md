@@ -5,7 +5,7 @@ Cross-Selling ist in verschiedenen Bereichen und Branchen weit verbreitet, auch 
 Als Forschungsteam ProInsurance bestehend aus max. drei Teilnehmer*innen der Hochschule Trier wurden Sie ausgewählt, dass Projekt Cross-Selling-Prediction für den Kunden NextGen Insurance durchzuführen.
 
 
-![Alt-Text](nextgen_logo.png)
+![Alt-Text](nextgen_logo.PNG)
 
 Der Kunde wünscht die Durchführung des Projektes innerhalb eines knapp kalkulierten Zeitraums, da baldige Veränderungen im Jahre 2022 anstehen. Innerhalb eines zugesicherten Abkommens zwischen der Hochschule Trier und NextGen Insurance wurde folgende Projektzeit festgelegt: 
 
