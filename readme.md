@@ -29,11 +29,11 @@ Ihr Kunde ist eine Versicherungsgesellschaft, die ihren Kunden eine Krankenversi
 Eine Versicherungspolice ist eine Vereinbarung, mit der sich ein Unternehmen verpflichtet, gegen Zahlung einer bestimmten Prämie eine Entschädigung für einen bestimmten Verlust, Schaden, eine Krankheit oder einen Todesfall zu garantieren. Eine Prämie ist ein Geldbetrag, den der Kunde regelmäßig an eine Versicherungsgesellschaft für diese Garantie zahlen muss.
 Zum Beispiel können Sie jedes Jahr eine Prämie von 5000 Rs. für eine Krankenversicherung von 200.000 Rs zahlen, so dass die Versicherungsgesellschaft die Kosten für den Krankenhausaufenthalt usw. bis zu einer Höhe von 200.000 Rs übernimmt, falls Sie, Gott behüte, in diesem Jahr krank werden und ins Krankenhaus müssen. Wenn Sie sich nun fragen, wie die Gesellschaft so hohe Krankenhauskosten tragen kann, wenn sie eine Prämie von nur 5000 Rs erhebt, dann kommt hier das Konzept der Wahrscheinlichkeiten ins Spiel. Zum Beispiel gibt es vielleicht 100 Kunden, die jedes Jahr eine Prämie von 5000 Rs zahlen, aber nur ein paar von ihnen (sagen wir 2-3) werden in diesem Jahr ins Krankenhaus eingeliefert und nicht alle. Auf diese Weise teilen sich alle das Risiko der anderen.
 Genau wie bei der Krankenversicherung muss der Kunde auch bei der Kfz-Versicherung jedes Jahr eine bestimmte Prämie an die Versicherungsgesellschaft zahlen, damit diese im Falle eines unglücklichen Unfalls mit dem Fahrzeug eine Entschädigung (die so genannte "Versicherungssumme") an den Kunden zahlt.
-Die Erstellung eines Modells zur Vorhersage, ob ein Kunde an einer Kfz-Versicherung interessiert ist, ist für das Unternehmen äußerst hilfreich, da es dann seine Kommunikationsstrategie entsprechend planen kann, um diese Kunden zu erreichen und sein Geschäftsmodell und seine Einnahmen zu optimieren.
+
 Um vorherzusagen, ob ein Kunde an einer Kfz-Versicherung interessiert ist, benötigt man Informationen über demografische Daten (Geschlecht, Alter, Regionalcode), Fahrzeuge (Fahrzeugalter, Schäden), Policen (Prämie, Vertriebskanal) usw.
 
 
-Der Kunde NextGen Insurance hat dem Forschungsteam ProInsurance ein Data Dictionary zur Verfügung gestellt: 
+Der Kunde *NextGen Insurance* hat dem Forschungsteam *ProInsurance* ein Data Dictionary zur Verfügung gestellt: 
 
 | Variable             |  Definition |
 |----------------------|---|
@@ -61,3 +61,7 @@ Es stehen insgesamt zwei Datensätze zur Verfügung:
 | train.csv                |  Hauptdatensatz mit der Zielvariable |
 | test.csv                 | Datensatz zur Prediction. Predictions der Zielvariable sollen in einer sample_submission.csv an das Vorstandsmitglied abgegeben werden  |
 | sample_submission.csv    | Auf Basis der test.csv zu erstellen, enthält nur ID und Response |
+
+
+<b> Ziel ist es daher vorherzusagen, ob ein Kunde an einer Kfz-Versicherung interessiert ist. Für das Unternehmen äußerst hilfreich, da es dann seine Kommunikationsstrategie entsprechend planen kann, um diese Kunden zu erreichen und das Geschäftsmodell und Einnahmen zu optimieren. </b>
+
