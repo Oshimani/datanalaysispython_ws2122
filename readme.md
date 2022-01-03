@@ -14,7 +14,7 @@
 
 # Situationsbeschreibung 
 
-Cross-Selling bezeichnet Produkte oder Dienstleistungen, die zusätzliche, ergänzende Bedürfnisse des Kunden befriedigen, die durch das ursprüngliche Produkt, das ein Kunde besitzt, nicht hinreichend befriedigt werden. So könnte beispielsweise eine Maus an einen Kunden, der eine Tastatur kauft, weiterverkauft werden. Häufig werden Kunden durch Cross-Selling auf Produkte hingewiesen, die sie ohnehin gekauft hätten; indem man sie zum richtigen Zeitpunkt „vorstellt“, stellt man sicher, dass der Verkauf zustande kommt.
+Cross-Selling bezeichnet Produkte oder  Dienstleistungen, die zusätzliche, ergänzende Bedürfnisse des Kunden befriedigen, die durch das ursprüngliche Produkt, das ein Kunde besitzt, nicht hinreichend befriedigt werden. So könnte beispielsweise eine Maus an einen Kunden, der eine Tastatur kauft, weiterverkauft werden. Häufig werden Kunden durch Cross-Selling auf Produkte hingewiesen, die sie ohnehin gekauft hätten; indem man sie zum richtigen Zeitpunkt „vorstellt“, stellt man sicher, dass der Verkauf zustande kommt.
 
 
 Cross-Selling ist in verschiedenen Bereichen und Branchen weit verbreitet, auch bei Banken. So werden beispielsweise Kreditkarten an Personen verkauft, die ein Sparkonto eröffnen. Im E-Commerce wird Cross-Selling häufig auf Produktseiten, während des Bestellvorgangs und in Lifecycle-Kampagnen eingesetzt. Es ist eine sehr effektive Taktik, um Wiederholungskäufe zu generieren und den Kunden die Breite eines Katalogs zu demonstrieren. Cross-Selling kann Nutzer auf Produkte aufmerksam machen, von denen sie vorher nicht wussten, dass diese angeboten werden und so ihr Vertrauen als der beste Händler für ein bestimmtes Bedürfnis gewinnen.
