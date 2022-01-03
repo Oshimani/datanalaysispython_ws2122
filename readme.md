@@ -1,3 +1,17 @@
+# Recommended Tools
+- [VS Code](https://code.visualstudio.com/)
+- [Extension for Jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
+
+# Infos
+- Check out the [shortcuts for jupyter notebook](./jupyter-shortcuts.png) to increase productivity 
+
+
+---
+
+***Es folgt die readme von Fabian***
+
+---
+
 # Situationsbeschreibung 
 
 Cross-Selling bezeichnet Produkte oder Dienstleistungen, die zusätzliche, ergänzende Bedürfnisse des Kunden befriedigen, die durch das ursprüngliche Produkt, das ein Kunde besitzt, nicht hinreichend befriedigt werden. So könnte beispielsweise eine Maus an einen Kunden, der eine Tastatur kauft, weiterverkauft werden. Häufig werden Kunden durch Cross-Selling auf Produkte hingewiesen, die sie ohnehin gekauft hätten; indem man sie zum richtigen Zeitpunkt „vorstellt“, stellt man sicher, dass der Verkauf zustande kommt.
